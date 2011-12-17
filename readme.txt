@@ -9,7 +9,7 @@ files and resources like images saved in appropriately named subfolders. The
 alternative is to save the post data in a single CSV file, behavior which you
 can specify via the command line:
 
-    python tumblr_backup.py --csv=true website_url 
+    python tumblr_backup.py --csv=true website_url
 
 It is possible to specify an alternate save directory :
 
